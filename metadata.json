@@ -1,0 +1,7 @@
+{
+  "name": "Vitalis - AI Health Companion",
+  "description": "A proactive, user-centric health companion powered by Gemini. Features biometric tracking, smart coaching, and a brutalist design system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
